@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EddierMiranda
 - 👀 I’m interested in Tech, Web Services, Web Development
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me 
 
 <!---
