@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EddierMiranda
+- 👋 Hi, I’m Eddier Miranda Núñez, a Engineer and Developer
 - 👀 I’m interested in Tech, Web Services, Web Development, and the continuous Learning
-- 🌱 I’m currently learning Full Stack Development with stack MERN and JavaScript, HTML, CSS.
+- 🌱 I’m currently learning coninuously Full Stack Development with the stack MERN, JavaScript, HTML and CSS.
 - 💞️ I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me, ya can contact to me by e-mail: eddierdeveloper@gmail.com
 
